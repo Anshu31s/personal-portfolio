@@ -19,8 +19,4 @@ You can view the live version of my portfolio [here](https://anshu31s.github.io/
 - **CSS3:** For styling the content and creating responsive layouts.
 - **JavaScript:** For adding interactivity and dynamic elements.
 
-## Getting Started
 
-To view the portfolio on your local machine, follow these steps:
-
-1. **Clone the repository
