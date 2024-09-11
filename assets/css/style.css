@@ -1617,15 +1617,16 @@ textarea.form-input::-webkit-resizer {
     margin: 0;
   }
 
-  @media screen and (min-width: 1441px) {
+ @media screen and (min-width: 1441px) {
     .main-content {
-      width: 60%;
+      width: 65%;
       margin: 0;
-      margin-right: 8rem;
+      margin-right: 0rem;
     }
 
     .sidebar {
-      width: 30rem;
+      width: 30%;
+      margin-right: 2rem;
     }
   }
 
